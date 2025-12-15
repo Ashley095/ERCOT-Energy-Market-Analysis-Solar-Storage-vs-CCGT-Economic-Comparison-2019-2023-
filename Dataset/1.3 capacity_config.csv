@@ -1,0 +1,5 @@
+scenario_id,zone,year,pv_capacity_mw,battery_power_mw,battery_energy_mwh,ccgt_capacity_mw
+base_west_2023_4h,WEST,2023,100,100,400,100
+base_houston_2023_4h,HOUSTON,2023,100,100,400,100
+sens_west_2023_2h,WEST,2023,100,100,200,100
+sens_houston_2023_2h,HOUSTON,2023,100,100,200,100
